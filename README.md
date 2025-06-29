@@ -100,6 +100,3 @@ The project utilizes real-world data from [Maven Analytics](https://mavenanalyti
 * Other regions are rising and may offer untapped opportunities
 
 ---
-
-## 📂 Folder Structure
-Video-Game-Sales-Forecasting-Using-Python-Prophet
