@@ -1,4 +1,4 @@
-# # 🎮 Video Game Sales Forecasting Using Python & Prophet
+# 🎮 Video Game Sales Forecasting Using Python & Prophet
 
 A complete time series forecasting project analyzing and predicting global and regional video game sales from **1971 to 2024** using Python and Prophet. 
 The project utilizes real-world data from [Maven Analytics](https://mavenanalytics.io/data-playground).
