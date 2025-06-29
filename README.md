@@ -78,18 +78,7 @@ The project utilizes real-world data from [Maven Analytics](https://mavenanalyti
 
 ## 📊 Visual Examples
 
-> You can find all plots in the `graphs/` directory.
-
-![Sample Forecast](graphs/forecast_action.png)
-
----
-
-## ✅ Project Status
-
-* [x] Data cleaning & preprocessing
-* [x] Prophet-based forecasts (global, regional, genre-wise)
-* [x] Graph labeling and export
-* [ ] Power BI dashboard (in progress)
+![image](https://github.com/user-attachments/assets/77c5b631-f655-4021-be93-812b59888390)
 
 ---
 
